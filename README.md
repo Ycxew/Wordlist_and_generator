@@ -6,6 +6,10 @@ this is a word list tool wich you can gereate wordlist with.
 
 # How to install:
 1.extract the files in a folder                                                                                                                                             
+2.run start.bat                                                                                                                                     
+
+# How to install(V1-V4):
+1.extract the files in a folder                                                                                                                                             
 2.right click the folder                                                                                                                                                        
 3.click open in terminal                                                                                                                                                          
 4.paste this command: python __main__.py                                                                                                                                                                                 
